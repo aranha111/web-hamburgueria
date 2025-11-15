@@ -17,12 +17,12 @@ function App() {
           <ProductCard
             name="Duplo Bacon"
             price={19.9}
-            img="src/assets/Images/000.png"
+            img="src/assets/Images/duplo-bacon.png"
           />
           <ProductCard
             name="Chicken Burger"
             price={17.5}
-            img="src/assets/Images/burger01.png"
+            img="src/assets/Images/frango.png"
             />
         < Cart />
       </main>
