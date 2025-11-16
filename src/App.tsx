@@ -12,22 +12,23 @@ function App() {
       <main className="flex flex-wrap justify-center gap-6 p-6">
 
       <ProductCard
-  name="Hamburguer"
-  price={5.9}
-  img="/hamburgueria-web/Images/hamburguerweb.png"
+  name="Hambúrguer"
+  price={5.90}
+  img="./images/hamburguerweb.png"
 />
 
 <ProductCard
   name="Duplo Bacon"
-  price={19.9}
-  img="/hamburgueria-web/Images/duplo-bacon.png"
+  price={19.90}
+  img="./images/duplo-bacon.png"
 />
 
 <ProductCard
-  name="Chicken Burger"
-  price={17.5}
-  img="/hamburgueria-web/Images/frango.png"
+  name="Hambúrguer de Frango"
+  price={17.50}
+  img="./images/frango.png"
 />
+
 
 
         <Cart />
