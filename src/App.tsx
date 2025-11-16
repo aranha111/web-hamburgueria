@@ -26,7 +26,7 @@ function App() {
 <ProductCard
   name="Hambúrguer de Frango"
   price={17.50}
-  img="/hamburgueria-web/images/hamburguerweb.png"
+  img="/images/hamburguerweb.png"
 />
 
 
