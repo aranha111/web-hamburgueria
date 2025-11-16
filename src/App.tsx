@@ -14,19 +14,19 @@ function App() {
       <ProductCard
   name="Hambúrguer"
   price={5.90}
-  img="./images/hamburguerweb.png"
+  img="/hamburgueria-web/images/hamburguerweb.png"
 />
 
 <ProductCard
   name="Duplo Bacon"
   price={19.90}
-  img="./images/duplo-bacon.png"
+  img="/hamburgueria-web/images/duplo-bacon.png"
 />
 
 <ProductCard
   name="Hambúrguer de Frango"
   price={17.50}
-  img="./images/frango.png"
+  img="/hamburgueria-web/images/hamburguerweb.png"
 />
 
 
