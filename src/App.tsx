@@ -20,7 +20,7 @@ function App() {
 <ProductCard
   name="Duplo Bacon"
   price={19.90}
-  img="/hamburgueria-web/images/duplo-bacon.png"
+  img="/images/duplo-bacon.png"
 />
 
 <ProductCard
